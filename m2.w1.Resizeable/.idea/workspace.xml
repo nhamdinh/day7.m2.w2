@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c7bf8256-3511-458e-a3f6-77de2332c2d5" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1SuAV9l73yzqXjHKFsEanL7ZqHT" />
+  <component name="ProjectViewState">
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../m2.w2.Colorable" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Unnamed" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Resizeable.Main" />
+      <module name="m2.w1.Resizeable" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c7bf8256-3511-458e-a3f6-77de2332c2d5" name="Default Changelist" comment="" />
+      <created>1572403127636</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1572403127636</updated>
+      <workItem from="1572403130446" duration="301000" />
+      <workItem from="1578389839985" duration="1442000" />
+      <workItem from="1578391828251" duration="2880000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="170" y="54" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1578391836704">
+      <screen x="59" y="27" width="1307" height="741" />
+    </state>
+    <state x="170" y="54" key="#com.intellij.execution.impl.EditConfigurationsDialog/59.27.1307.741@59.27.1307.741" timestamp="1578391836704" />
+    <state x="588" y="75" width="374" height="626" key="#com.intellij.ide.util.MemberChooser" timestamp="1578393736820">
+      <screen x="59" y="27" width="1307" height="741" />
+    </state>
+    <state x="588" y="75" width="374" height="626" key="#com.intellij.ide.util.MemberChooser/59.27.1307.741@59.27.1307.741" timestamp="1578393736820" />
+    <state x="444" y="182" width="525" height="428" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1578391836172">
+      <screen x="59" y="27" width="1307" height="741" />
+    </state>
+    <state x="444" y="182" width="525" height="428" key="#com.intellij.ide.util.TreeClassChooserDialog/59.27.1307.741@59.27.1307.741" timestamp="1578391836172" />
+    <state x="495" y="154" width="424" height="484" key="FileChooserDialogImpl" timestamp="1578394708536">
+      <screen x="59" y="27" width="1307" height="741" />
+    </state>
+    <state x="495" y="154" width="424" height="484" key="FileChooserDialogImpl/59.27.1307.741@59.27.1307.741" timestamp="1578394708536" />
+    <state width="1261" height="175" key="GridCell.Tab.0.bottom" timestamp="1578394708548">
+      <screen x="59" y="27" width="1307" height="741" />
+    </state>
+    <state width="1261" height="175" key="GridCell.Tab.0.bottom/59.27.1307.741@59.27.1307.741" timestamp="1578394708548" />
+    <state width="1261" height="175" key="GridCell.Tab.0.center" timestamp="1578394708546">
+      <screen x="59" y="27" width="1307" height="741" />
+    </state>
+    <state width="1261" height="175" key="GridCell.Tab.0.center/59.27.1307.741@59.27.1307.741" timestamp="1578394708546" />
+    <state width="1261" height="175" key="GridCell.Tab.0.left" timestamp="1578394708544">
+      <screen x="59" y="27" width="1307" height="741" />
+    </state>
+    <state width="1261" height="175" key="GridCell.Tab.0.left/59.27.1307.741@59.27.1307.741" timestamp="1578394708544" />
+    <state width="1261" height="175" key="GridCell.Tab.0.right" timestamp="1578394708547">
+      <screen x="59" y="27" width="1307" height="741" />
+    </state>
+    <state width="1261" height="175" key="GridCell.Tab.0.right/59.27.1307.741@59.27.1307.741" timestamp="1578394708547" />
+    <state x="159" y="125" width="1107" height="543" maximized="true" key="dock-window-1" timestamp="1578393577107">
+      <screen x="59" y="27" width="1307" height="741" />
+    </state>
+    <state x="159" y="125" width="1107" height="543" maximized="true" key="dock-window-1/59.27.1307.741@59.27.1307.741" timestamp="1578393577107" />
+    <state x="159" y="125" width="1107" height="543" key="dock-window-2" timestamp="1578393492782">
+      <screen x="59" y="27" width="1307" height="741" />
+    </state>
+    <state x="159" y="125" width="1107" height="543" key="dock-window-2/59.27.1307.741@59.27.1307.741" timestamp="1578393492782" />
+    <state x="159" y="125" width="1107" height="543" key="dock-window-3" timestamp="1578393582220">
+      <screen x="59" y="27" width="1307" height="741" />
+    </state>
+    <state x="159" y="125" width="1107" height="543" key="dock-window-3/59.27.1307.741@59.27.1307.741" timestamp="1578393582220" />
+    <state x="159" y="125" width="1107" height="543" key="dock-window-4" timestamp="1578393942806">
+      <screen x="59" y="27" width="1307" height="741" />
+    </state>
+    <state x="159" y="125" width="1107" height="543" key="dock-window-4/59.27.1307.741@59.27.1307.741" timestamp="1578393942806" />
+    <state x="159" y="125" width="1107" height="543" key="dock-window-5" timestamp="1578393764740">
+      <screen x="59" y="27" width="1307" height="741" />
+    </state>
+    <state x="159" y="125" width="1107" height="543" key="dock-window-5/59.27.1307.741@59.27.1307.741" timestamp="1578393764740" />
+    <state x="159" y="125" width="1107" height="543" maximized="true" key="dock-window-6" timestamp="1578393863629">
+      <screen x="59" y="27" width="1307" height="741" />
+    </state>
+    <state x="159" y="125" width="1107" height="543" maximized="true" key="dock-window-6/59.27.1307.741@59.27.1307.741" timestamp="1578393863629" />
+    <state x="159" y="125" width="1107" height="543" key="dock-window-7" timestamp="1578394133750">
+      <screen x="59" y="27" width="1307" height="741" />
+    </state>
+    <state x="159" y="125" width="1107" height="543" key="dock-window-7/59.27.1307.741@59.27.1307.741" timestamp="1578394133750" />
+    <state x="159" y="125" width="1107" height="543" key="dock-window-8" timestamp="1578394133750">
+      <screen x="59" y="27" width="1307" height="741" />
+    </state>
+    <state x="159" y="125" width="1107" height="543" key="dock-window-8/59.27.1307.741@59.27.1307.741" timestamp="1578394133750" />
+  </component>
+</project>
